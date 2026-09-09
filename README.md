@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Maksymilian Kochan
-I am a Software Engineer and Computer Science studend at University of Wrocław.
+I am a Software Engineer and Computer Science student at University of Wrocław.
 
 ---
 How to reach me:
