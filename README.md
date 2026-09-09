@@ -1,6 +1,7 @@
 ## Hi 👋, I'm Maksymilian Kochan
 I am a Software Engineer and Computer Science studend at University of Wrocław.
 
+
 How to reach me:
 
 🟦 linkedin.com/in/maksymilian-kochan/
