@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi 👋, I'm Maksymilian Kochan
+I am a Software Engineer and Computer Science studend at University of Wrocław.
 
+How to reach me:
+🟦 linkedin.com/in/maksymilian-kochan/
+📧 max.kochan03@gmail.com
 <!--
 **INS000/INS000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
