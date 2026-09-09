@@ -4,7 +4,7 @@ I am a Software Engineer and Computer Science student at University of Wrocław.
 ---
 How to reach me:
 
-🟦 linkedin.com/in/maksymilian-kochan/
+🟦 [linkedin.com/in/maksymilian-kochan/](https://www.linkedin.com/in/maksymilian-kochan/)
 
 📧 max.kochan03@gmail.com
 <!--
